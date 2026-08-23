@@ -1280,15 +1280,12 @@ HERO ORBITS
 .cv-entry span {
     display: block;
 
-    color: #087f70;
-
     font-size: 0.78rem;
 
     font-weight: 700;
 }
 
 .cv-entry p {
-    color: #4f5d70;
 
     font-size: 0.88rem;
 
@@ -1296,7 +1293,6 @@ HERO ORBITS
 }
 
 .cv-sheet li {
-    color: #4f5d70;
 
     font-size: 0.88rem;
 
