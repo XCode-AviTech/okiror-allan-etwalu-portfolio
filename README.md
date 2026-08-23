@@ -106,7 +106,7 @@ A modern responsive website project developed for BKS Engineering Services (U) L
 
 **Technologies:** HTML, CSS, JavaScript & Bootstrap
 
-**GitHub:** https://github.com/XCode-AviTech/bks-demo
+**GitHub:** https://github.com/XCode-AviTech/bks-demo-website
 
 ---
 
@@ -116,7 +116,7 @@ A professional website template/project developed to demonstrate personal brandi
 
 **Technologies:** HTML, CSS, JavaScript & Bootstrap
 
-**GitHub:** https://github.com/XCode-AviTech/Julius_Paul_Kabonge
+**GitHub:** https://github.com/XCode-AviTech/JPaul_Kabonge
 
 ---
 
